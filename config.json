@@ -1,0 +1,18 @@
+{
+  "target_funds": [
+    {
+      "name": "沪深300ETF",
+      "code": "510300",
+      "index_name": "沪深300",
+      "initial_investment_per_share": 1000, 
+      "max_shares": 10
+    },
+    {
+      "name": "消费ETF",
+      "code": "510150",
+      "index_name": "全指消费",
+      "initial_investment_per_share": 1000,
+      "max_shares": 10
+    }
+  ]
+}
